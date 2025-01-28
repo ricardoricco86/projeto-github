@@ -59,6 +59,9 @@ valor_convert = int(Valor)
 desconto = valor_convert - 5
 print(desconto)
 
+desconto - int(Valor) - 5
+print(desconto)
+
 
 
 
