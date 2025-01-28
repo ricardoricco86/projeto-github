@@ -45,7 +45,8 @@ Input
 armazenar a informação digitada pelo usuario
 o dado armazenado sempre será um texto
 
-
+nome = input('digite o nome do usuario') #aguardar o usuario digitar algo
+print(nome)
 
 
 
