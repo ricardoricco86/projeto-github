@@ -52,6 +52,9 @@ nota = input('digitar a nota')
 
 print(nome, 'sua nota foi', 7)
 
+Valor = input('o valor do produto:')
+print(Valor)
+
 
 
 
