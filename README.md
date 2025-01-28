@@ -39,5 +39,13 @@ print ('num_float', num_float)
 
 i
 
+(comando abaixo é o INPUT)
+
+Input
+armazenar a informação digitada pelo usuario
+o dado armazenado sempre será um texto
+
+
+
 
 
