@@ -48,5 +48,10 @@ o dado armazenado sempre será um texto
 nome = input('digite o nome do usuario') #aguardar o usuario digitar algo
 print(nome)
 
+nota = input('digitar a nota')
+
+print(nome, 'sua nota foi', 7)
+
+
 
 
