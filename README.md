@@ -20,5 +20,24 @@ print ('declarar varias variaveis na mesma linha', y,z)
 
 (o comando abaixo é do type) 
 
+x = 10
+type (x)
+print('x', type(x))
+
+nome = 'Rodrigo'
+print ('nome', type(nome))
+
+num = '100'
+num_convert = int(num) # converter variavel
+print ('num', type(num))
+print ('num_conver', type(num_convert))
+
+num_float = float(num)
+print ('num_float', num_float)
+
+
+
+i
+
 
 
