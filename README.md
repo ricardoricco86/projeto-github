@@ -7,3 +7,8 @@ print ('conhecendo o comando Print')
 
 x = 8
 print (x)
+
+(o comando abaixo é de concatenação)
+
+x = 5
+print ('o valor de x é ', x)
