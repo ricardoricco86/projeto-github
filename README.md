@@ -55,6 +55,11 @@ print(nome, 'sua nota foi', 7)
 Valor = input('o valor do produto:')
 print(Valor)
 
+valor_convert = int(Valor)
+desconto = valor_convert - 5
+print(desconto)
+
+
 
 
 
